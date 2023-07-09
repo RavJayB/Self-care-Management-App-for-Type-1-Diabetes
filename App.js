@@ -24,7 +24,7 @@ import Splash from './src/screens/auth/Splash'
 import Insulin from './src/screens/auth/Insulin'
 
 
-// import Login_1 from "./src/screens/auth/Login_1";
+
 
 // import PdfViewer from "./src/screens/auth/PdfViewer";
 // import MyComponent from "./src/screens/auth/MyComponent";
